@@ -19,6 +19,7 @@ Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 # Life Expectancy Analysis
 
 ```{r}
+#finding max life exp for each year 
 library(tidyverse)
 library(gapminder)
 data("gapminder_unfiltered")
